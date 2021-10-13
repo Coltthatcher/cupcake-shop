@@ -12,6 +12,13 @@ body {
     text-align: center;
     color:red;
     text-decoration: italic;
+    margin-right: 19%;
+    margin-left: 19%;
+}
+p {
+    line-height: 40px;
+    margin-left: 19%;
+    margin-right: 19%;
 }
 .best {
     color: rgb(255, 187, 0);
